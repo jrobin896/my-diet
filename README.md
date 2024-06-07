@@ -10,12 +10,12 @@ Meal 01
 Meal 02
 --------
 (Breakfast)
-- 56g Oats (100g water) + 1 scoop whey protein + 1 scoop roasted peanuts + 1 apple
+- 60g Oats (100g water) + 1 scoop whey protein + 1 scoop roasted peanuts + 1 apple
 
 Meal 03
 --------
 (Lunch)
-- 2 rotti + 1 spatula(+ little more) daal + cucumber + 150g home grilled chicken
+- 2 rotti + 1.5 spatula (office medium level or 2 small level) daal + cucumber + 150g home grilled chicken
 
 Meal 04
 --------
@@ -31,7 +31,7 @@ Meal 05
 Meal 06
 --------
 (Dinner)
-- 90g boiled red matta rice + 60g vegetable sabzi + 75g home grilled chicken
+- 100g boiled red matta rice + 80g vegetable sabzi + 75g home grilled chicken
 
 Meal 07
 --------
