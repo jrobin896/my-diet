@@ -15,12 +15,12 @@ Meal 02
 Meal 03
 --------
 (Lunch)
-- 2 rotti + 1.5 spatula (office medium level or 2 small level) daal + cucumber + 150g home grilled chicken
+- 2.5 rotti + 1.5 spatula (office medium level or 2 small level) daal + cucumber + 150g home grilled chicken
 
 Meal 04
 --------
 (Snacks)
-- 1 rotti + 4 full fried eggs + ketchup
+- 1.5 rotti + 4 full fried eggs + ketchup
 - 1 watermelon platter + 1 office small banana
 
 Meal 05
@@ -36,4 +36,4 @@ Meal 06
 Meal 07
 --------
 (Before bed drink)
-- 250ml milk (with turmeric and pepper) + 15 badams
+- 250ml milk (with turmeric and pepper) + 20 badams
