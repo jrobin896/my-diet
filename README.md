@@ -16,17 +16,18 @@ Meal 03
 --------
 (Lunch)
 - 2.5 rotti + 1.5 spatula (office medium level or 2 small level) daal + cucumber + 150g home grilled chicken
+- +1 small compartment of your choice of food (non-sweet, but potato sabzi or cullet) on Wednesdays
 
 Meal 04
 --------
 (Snacks)
 - 1.5 rotti + 4 full fried eggs + ketchup
-- 1 watermelon platter + 1 office small banana
+- 1 watermelon platter + 1 baby banana(office)
 
 Meal 05
 --------
 (Post Workout)
-- 1 scoop whey protein + 4 dates
+- 1 scoop whey protein + 1 baby banana(office) + 4 dates
 
 Meal 06
 --------
