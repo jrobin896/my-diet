@@ -1,5 +1,6 @@
-# my-diet
-Repository to track my diet changes
+# my-diet/surplus
+File to track surplus calories. 
+- Follow this diet when you are on bulk
 
 Meal 01
 --------
