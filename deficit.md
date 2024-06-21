@@ -1,5 +1,5 @@
 # my-diet/maintenance
-File to track maintenance calories. 
+File to track deficit calories. 
 - Follow this diet when you are cut
 
 Meal 01
