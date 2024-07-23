@@ -5,7 +5,7 @@ File to track the diet when I had stomach ache.
 Meal 01
 --------
 (Wake up meal)
-- 1 handful of moong dal sprouts
+- 2 baby banana (office)
 
 Meal 02
 --------
