@@ -1,5 +1,5 @@
 # my-diet/stomach-ache
-File to track the diet when I have stomach ache. 
+File to track the diet when I had stomach ache. 
 - Follow this diet when you are on bulk
 
 Meal 01
