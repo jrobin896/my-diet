@@ -11,28 +11,28 @@ Meal 01
 Meal 02
 --------
 (Breakfast)
-- 55g Oats (100g water) + 1 scoop whey protein + 1 scoop roasted peanuts + 1 apple
+- 65g Oats (110g water) + 1 scoop whey protein + 1 scoop roasted peanuts + 1 apple
 
 Meal 03
 --------
 (Lunch)
-- 1.5 rotti + 1 spatula (office small level or little less than 1 medium level) daal + cucumber + 160g home grilled chicken
+- 2.5 rotti + 1.5 spatula (office medium level or 2 small level) daal + cucumber + 150g home grilled chicken
 
 Meal 04
 --------
 (Snacks)
-- 1 rotti + 4 full fried eggs + ketchup
-- 1 watermelon platter + 1 baby banana(office)
+- 1.5 rotti + 4 full fried eggs + ketchup
+- 1 baby banana(office)
 
 Meal 05
 --------
 (Post Workout)
-- 1 scoop whey protein + 3 dates
+- 1 scoop whey protein + 1 baby banana(office) + 4 dates
 
 Meal 06
 --------
 (Dinner)
-- 80g boiled red matta rice + 80g vegetable sabzi + 80g home grilled chicken
+- 100g boiled red matta rice + 100g vegetable sabzi + 75g home grilled chicken
 
 Meal 07
 --------
