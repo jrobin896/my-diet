@@ -6,22 +6,22 @@ Meal 01
 --------
 (Wake up meal)
 - 1/2 scoop whey protein
-- 1 cup coffee (office bru instant pack)
+- < 1 Pomegranate (60g less than 1 whole fruit)
 
 Meal 02
 --------
 (Breakfast)
-- 65g Oats (110g water) + 1 scoop whey protein + 1 scoop roasted peanuts + 1 apple
+- 60g Oats (100g water) + 1 scoop whey protein + 1 scoop roasted peanuts + 1 apple
 
 Meal 03
 --------
 (Lunch)
-- 2.5 rotti + 1.5 spatula (office medium level or 2 small level) daal + cucumber + 150g home grilled chicken
+- 2 rotti + 2 spatula daal + cucumber + 150g home grilled chicken
 
 Meal 04
 --------
 (Snacks)
-- 1.5 rotti + 4 full fried eggs + ketchup
+- 1 rotti + 4 whole egg Omelette + ketchup
 - 1 baby banana(office)
 
 Meal 05
