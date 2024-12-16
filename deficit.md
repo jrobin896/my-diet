@@ -11,7 +11,7 @@ Meal 01
 Meal 02
 --------
 (Breakfast)
-- 60g Oats (100g water) + 1 scoop whey protein + 1 scoop roasted peanuts + 1 apple
+- 55g Oats (100g water) + 15g Black Raisins + 1 scoop whey protein + 1 scoop roasted peanuts + 1 apple
 
 Meal 03
 --------
@@ -22,12 +22,12 @@ Meal 04
 --------
 (Snacks)
 - 1 rotti + 4 whole egg Omelette + ketchup
-- 1 baby banana(office)
+- 1 banana(office)
 
 Meal 05
 --------
 (Post Workout)
-- 1 scoop whey protein + 1 baby banana(office) + 4 dates
+- 1 scoop whey protein + 1 banana(office) + 4 dates
 
 Meal 06
 --------
@@ -37,4 +37,4 @@ Meal 06
 Meal 07
 --------
 (Before bed drink)
-- 250ml milk (with turmeric and pepper) + 20 badams
+- 250ml milk (with turmeric and pepper) + 2 cubes Dark Chocolate + 20 badams
