@@ -1,4 +1,4 @@
-# my-diet/maintenance
+# my-diet/deficit
 File to track deficit calories. 
 - Follow this diet when you are cut
 
