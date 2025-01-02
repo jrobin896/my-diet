@@ -6,12 +6,12 @@ Meal 01
 --------
 (Wake up meal)
 - 1/2 scoop whey protein
-- < 1 Pomegranate (60g less than 1 whole fruit)
+- 180g or 200g of Pomegranate (depending on how much is left for Divya)
 
 Meal 02
 --------
 (Breakfast)
-- 55g Oats (100g water) + 15g Black Raisins + 1 scoop whey protein + 1 scoop roasted peanuts + 1 apple
+- 55g Oats (90g water) + 15g Black Raisins + 1 scoop whey protein + 1 cube dark chocolate(70% dark) + 1 apple + 1 scoop roasted peanuts
 
 Meal 03
 --------
@@ -21,8 +21,8 @@ Meal 03
 Meal 04
 --------
 (Snacks)
-- 1 rotti + 4 whole egg Omelette + ketchup
-- 1 banana(office)
+- 1 rotti + 3 whole egg bhurji
+- 1 office watermelon cut
 
 Meal 05
 --------
@@ -37,4 +37,4 @@ Meal 06
 Meal 07
 --------
 (Before bed drink)
-- 250ml milk (with turmeric and pepper) + 2 cubes Dark Chocolate + 20 badams
+- 250ml milk (with turmeric and pepper) + 1 cube Dark Chocolate(70% dark) + 15 badams + 10g of pumkin seeds/walnuts
