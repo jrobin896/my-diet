@@ -5,7 +5,6 @@ File to track deficit calories.
 Meal 01
 --------
 (Wake up meal)
-- 1/2 scoop whey protein
 - 180g or 200g of Pomegranate (depending on how much is left for Divya)
 
 Meal 02
@@ -21,13 +20,13 @@ Meal 03
 Meal 04
 --------
 (Snacks)
-- 1 rotti + 3 whole egg bhurji
-- 1 office watermelon cut
+- 1 rotti + 3 whole egg full fry (1 tbsp olive oil) + 60g vegetabe sabzi
+- 1 red banana
 
 Meal 05
 --------
 (Post Workout)
-- 1 scoop whey protein + 1 banana(office) + 4 dates
+- 1 scoop whey protein + 4 dates
 
 Meal 06
 --------
