@@ -5,8 +5,8 @@ File to track deficit calories.
 Meal 01
 --------
 (Wake up meal)
-- 180g or 200g of Pomegranate
-- 1 scoop citrulline malate
+- 160g or 180g of Pomegranate
+- 1 glass lemon salt water (After 15min morning walk)
 
 Meal 02
 --------
@@ -18,14 +18,15 @@ Meal 02
 Meal 03
 --------
 (Lunch)
-- 2 rotti + 2 spatula daal + cucumber + 150g home grilled chicken
+- 2 rotti + 2 spatula daal + cucumber + beetroot + 150g home grilled chicken
 
----Supplement---(2 Fish Oil Tablet)---
+---Supplement---(1 Fish Oil Tablet)---
+---Supplement---(1 Vitamin D3 Tablet)---
 
 Meal 04
 --------
 (Snacks)
-- 1 rotti + 4 whole egg full fry (1 tsp olive oil) + 60g vegetabe sabzi
+- 1 rotti + 4 whole egg (1 without yolk) full fry (1 tsp olive oil) + 60g vegetabe sabzi
 - Watermelon
 
 ---Supplement---(Citrulline Malate + Creatine Monohydrate)---
@@ -43,4 +44,4 @@ Meal 06
 Meal 07
 --------
 (Before bed drink)
-- 1 85g Greek Yogurt + 20 badams + 15g of pumkin seeds/walnuts + 8g of Black Raisins
+- 1 85g Greek Yogurt + 20 badams + 10g of pumkin seeds + 10g of walnuts + 10 Black Raisins
