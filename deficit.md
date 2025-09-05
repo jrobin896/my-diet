@@ -19,7 +19,7 @@ Meal 02
 Meal 03
 --------
 (Lunch)
-- 1.5 rotti + 2 spatula daal + cucumber + beetroot + 150g home grilled chicken
+- 1.5 rotti + 2 spatula daal + beetroot + 150g home grilled chicken
 
 ---Supplement---(1 Fish Oil Tablet)---
 ---Supplement---(1 Vitamin D3 Tablet)---(Monthly once)---
@@ -27,8 +27,8 @@ Meal 03
 Meal 04
 --------
 (Snacks)
-- 1 rotti + 4 whole egg (1 without yolk) full fry (1 tsp olive oil) + 50g vegetabe sabzi
-- Watermelon
+- 1 rotti + 4 whole egg (1 without yolk) full fry (1 tsp olive oil) + 45g vegetabe sabzi
+- 1 office watermelon cut + 1 red banana
 
 ---Supplement---(Citrulline Malate + Creatine Monohydrate)---
 
@@ -45,4 +45,4 @@ Meal 06
 Meal 07
 --------
 (Before bed drink)
-- 1 85g Greek Yogurt + 20 badams + 11g of pumkin seeds + 10g of walnuts + 10 Black Raisins
+- 1 85g Greek Yogurt + 20 badams + 12g of pumkin seeds + 10g of walnuts + 10 Black Raisins
