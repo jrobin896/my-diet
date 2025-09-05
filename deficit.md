@@ -44,5 +44,5 @@ Meal 06
 
 Meal 07
 --------
-(Before bed drink)
+(Before bed yogurt)
 - 1 85g Greek Yogurt + 20 badams + 12g of pumkin seeds + 10g of walnuts + 10 Black Raisins
