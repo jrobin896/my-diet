@@ -1,6 +1,7 @@
-# my-diet/deficit
-File to track deficit calories. 
-- Follow this diet when you are cut
+# my-diet
+
+Current Goal: Muscle Gain
+Diet Type: surplus
 
 Meal 01
 --------
