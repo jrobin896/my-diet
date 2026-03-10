@@ -28,7 +28,7 @@ Meal 03
 Meal 04
 --------
 (Snacks)
-- 2 rotti + 3 whole boiled eggs + 1 boiled egg white + 1 handful of black channa + 1 handful of corn or baby corn
+- 2 rotti + 3 whole boiled eggs + 1 boiled egg white + 150ml white rice
 - 1 guava cut or 1 papaya cut (approx 200-250g)
 
 ---Supplement---(Citrulline Malate + Creatine Monohydrate)---
@@ -41,7 +41,7 @@ Meal 05
 Meal 06
 --------
 (Dinner)
-- 200g boiled red matta rice + 140g vegetable sabzi + 75g (meassured when raw) home grilled chicken
+- 200g boiled red matta rice + 140g vegetable sabzi + 100g (meassured when raw) home grilled chicken
 
 Meal 07
 --------
