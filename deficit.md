@@ -28,8 +28,8 @@ Meal 03
 Meal 04
 --------
 (Snacks)
-- 1 rotti + 3 whole boiled eggs + 1 boiled egg white + 150ml container white rice + (some lettuce, capsicum, and peri-peri sauce)
-- 1 guava cut or 1 papaya cut (approx 200-250g)
+- 1 rotti + 3 whole boiled eggs + 2 boiled egg white + 150ml container white rice + (some lettuce, capsicum, and peri-peri sauce)
+- 1 water melon cut (approx 200g)
 
 ---Supplement---(Citrulline Malate + Creatine Monohydrate)---
 
